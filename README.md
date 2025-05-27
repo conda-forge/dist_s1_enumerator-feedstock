@@ -27,7 +27,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-dist_s1_enumerator-green.svg)](https://anaconda.org/conda-forge/dist_s1_enumerator) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/dist_s1_enumerator.svg)](https://anaconda.org/conda-forge/dist_s1_enumerator) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/dist_s1_enumerator.svg)](https://anaconda.org/conda-forge/dist_s1_enumerator) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/dist_s1_enumerator.svg)](https://anaconda.org/conda-forge/dist_s1_enumerator) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-dist__s1__enumerator-green.svg)](https://anaconda.org/conda-forge/dist_s1_enumerator) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/dist_s1_enumerator.svg)](https://anaconda.org/conda-forge/dist_s1_enumerator) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/dist_s1_enumerator.svg)](https://anaconda.org/conda-forge/dist_s1_enumerator) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/dist_s1_enumerator.svg)](https://anaconda.org/conda-forge/dist_s1_enumerator) |
 
 Installing dist_s1_enumerator
 =============================
