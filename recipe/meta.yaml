@@ -13,7 +13,7 @@ source:
 build:
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv --no-deps --no-build-isolation
-  number: 0
+  number: 1
 
 requirements:
   host:
@@ -29,7 +29,7 @@ requirements:
     - contextily
     - geopandas
     - pandas
-    - pandera
+    - pandera >=0.24.0
     - pyarrow
     - rasterio
     - requests
@@ -57,4 +57,3 @@ extra:
     - richw7185
     - cmarshak
     - taliboliver
-    - richw7185
