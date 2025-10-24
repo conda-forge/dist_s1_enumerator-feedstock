@@ -1,5 +1,5 @@
 {% set name = "dist_s1_enumerator" %}
-{% set version = "1.0.6" %}
+{% set version = "1.0.7" %}
 {% set python_min = "3.12" %} 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/dist_s1_enumerator-{{ version }}.tar.gz
-  sha256: 0f3dc8b3bf570b33dd87d3d22ceba9d342e06b696c4470ff2356fa7db89c8b36
+  sha256: 3cfc1855e444794858ac54cf607c46635ffbcb58ac36b274e3b6486ffb5a04bf
 
 build:
   noarch: python
