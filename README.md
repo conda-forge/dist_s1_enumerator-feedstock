@@ -13,11 +13,10 @@ Current build status
 ====================
 
 
-<table><tr><td>All platforms:</td>
+<table><tr>
+    <td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=24628&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/dist_s1_enumerator-feedstock?branchName=main">
-      </a>
+      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
     </td>
   </tr>
 </table>
@@ -146,7 +145,4 @@ Feedstock Maintainers
 * [@cmarshak](https://github.com/cmarshak/)
 * [@richw7185](https://github.com/richw7185/)
 * [@taliboliver](https://github.com/taliboliver/)
-
-
-<!-- dummy commit to enable rerendering -->
 
